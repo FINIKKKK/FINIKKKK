@@ -1,7 +1,5 @@
 <img src="./banner.png">
 
-#
-
 ## **I'm a Full-Stack Web Developer** 
 
 who specializes in creating high-quality web applications running on the client and server sides. My experience includes the development of both frontend and backend applications, which allows me to create full-fledged web services. I am attracted by the opportunity to constantly improve my skills and I am always ready to learn new things. My goal is to create web applications that are not only functional, but also aesthetically appealing.
@@ -20,7 +18,7 @@ who specializes in creating high-quality web applications running on the client 
 🔷 I also have a profile on [CodePen](https://codepen.io/finikkkk) where I share my frontend experiments
 
 #
-<a href="https://t.me/finik_xxx"><img src="./icons/telegram.svg" alt="telegram" width="35" height="35"></a>
-<a href="https://www.linkedin.com/in/finikkkk/"><img src="./icons/linkedin.svg" alt="linkedin" width="35" height="35"></a>
-<a href="mailto:finikdigi@gmail.com"><img src="./icons/email.svg" alt="email" width="35" height="35"></a>
-<a href="https://codepen.io/finikkkk"><img src="./icons/codepen.svg" alt="codepen" width="35" height="35"></a>
+<a href="https://t.me/finik_xxx"><img src="./icons/telegram2.svg" alt="telegram" width="30" height="30"></a>
+<a href="https://www.linkedin.com/in/finikkkk/"><img src="./icons/linkedin2.svg" alt="linkedin" width="30" height="30"></a>
+<a href="mailto:finikdigi@gmail.com"><img src="./icons/email.svg" alt="email" width="30" height="30"></a>
+<a href="https://codepen.io/finikkkk"><img src="./icons/codepen.svg" alt="codepen" width="30" height="30"></a>
