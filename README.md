@@ -2,11 +2,11 @@
 
 # HOYDI
 
-[![telegram](./iocns/telegram.png)](https://t.me/finik_xxx)
-[![linkedin](./iocns/linkedin.png)](https://www.linkedin.com/in/finikkkk/)
+[![telegram](./icons/telegram.svg)](https://t.me/finik_xxx)
+[![linkedin](./icons/linkedin.svg)](https://www.linkedin.com/in/finikkkk/)
 
 #
-I am a Full-stack Web Developer with experience in building web applications that work on both client and server sides.
+I am a Full-Stack Web Developer who specializes in creating high-quality web applications running on the client and server sides. My experience includes the development of both frontend and backend applications, which allows me to create full-fledged web services. I am attracted by the opportunity to constantly improve my skills and I am always ready to learn new things. My goal is to create web applications that are not only functional, but also aesthetically appealing.
 
 #
 🔷 Main stack: NextJS, NestJS
@@ -22,7 +22,5 @@ I am a Full-stack Web Developer with experience in building web applications tha
 🔷 I also have a profile on [CodePen](https://codepen.io/finikkkk) where I share my frontend experiments
 
 # 
-<div style="display:flex; flex-wrap:wrap;">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FINIKKKK&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=FINIKKKK)](https://github.com/anuraghazra/github-readme-stats)
-</div>
