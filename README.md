@@ -6,7 +6,7 @@ As a developer, I am involved in creating websites and web applications that use
 
 #
 
-**`HTML/CSS`**, **`JavaScript`**, **`SCSS/SASS`**, **`Gulp`**, **`React`**, **`Redux`**, **`Redux Toolkit`**, **`TypeScript`**, **`Next.js`**, **`Node.js`**, **`Nest.js`**, **`TypeORM`**, **`PostgreSQL`**, **`Vue.js`**, **`Jest`**, **`Docker`**, **`EsLint`**, **`Prettier`**
+**`HTML/CSS`** **`JavaScript`** **`SCSS/SASS`** **`Gulp`** **`React`** **`Redux`** **`Redux Toolkit`** **`TypeScript`** **`Next.js`** **`Node.js`** **`Nest.js`** **`TypeORM`** **`PostgreSQL`** **`Vue.js`** **`Jest`** **`Docker`** **`EsLint`** **`Prettier`**
 
 #
 
