@@ -1,14 +1,16 @@
-<img src="./banner.png">
+<img src="./banner2.png">
 
-## **I'm a Full-Stack Web Developer**
+## **I'm a Front-end Developer**
 
-who specializes in creating high-quality web applications running on the client and server sides. My experience includes the development of both frontend and backend applications, which allows me to create full-fledged web services. I am attracted by the opportunity to constantly improve my skills and I am always ready to learn new things. My goal is to create web applications that are not only functional, but also aesthetically appealing.
+As a developer, I am involved in creating websites and web applications that users can see and interact with. I constantly study new technologies and trends in web development to stay up-to-date and provide the best experience for users. Thanks to this, I get immense satisfaction from my work and take pride in being able to create quality products for my clients and users.
+
+#
+
+**`React`**, **`Next.js`**, **`Nest.js`**, **`Vue.js`**, **`WordPress`**, **`Node.js`**, **`HTML/CSS`**, **`JavaScript`**, **`SCSS/Sass`**, **`Gulp`**, **`Jest`**, **`Docker`**, **`PostgreSQL`**, **`TypeORM`**, **`Redux Toolkit`**
 
 #
 
 🔷 Main stack: NextJS, NestJS
-
-🔷 Familiar with VueJS, Laravel, and Wordpress
 
 🔷 I always prefer to use TypeScript and SCSS in my projects
 
@@ -20,7 +22,8 @@ who specializes in creating high-quality web applications running on the client 
 
 #
 
-<a href="https://t.me/finik_xxx"><img src="./icons/telegram2.svg" alt="telegram" width="30" height="30" style="margin-right: 10px;"></a>
-<a href="https://www.linkedin.com/in/finikkkk/"><img src="./icons/linkedin2.svg" alt="linkedin" width="30" height="30" style="margin-right: 10px;"></a>
-<a href="mailto:finikdigi@gmail.com"><img src="./icons/email.svg" alt="email" width="30" height="30" style="margin-right: 10px;"></a>
-<a href="https://codepen.io/finikkkk"><img src="./icons/codepen.svg" alt="codepen" width="30" height="30" style="margin-right: 10px;"></a>
+<a href="https://twitter.com/i_am_fin1k"><img src="./icons/twitter.svg" alt="twitter" width="30" height="30"></a>
+<a href="https://t.me/finik_xxx"><img src="./icons/telegram2.svg" alt="telegram" width="30" height="30"></a>
+<a href="https://www.linkedin.com/in/finikkkk/"><img src="./icons/linkedin2.svg" alt="linkedin" width="30" height="30"></a>
+<a href="mailto:finikdigi@gmail.com"><img src="./icons/email.svg" alt="email" width="30" height="30"></a>
+<a href="https://codepen.io/finikkkk"><img src="./icons/codepen.svg" alt="codepen" width="30" height="30"></a>
