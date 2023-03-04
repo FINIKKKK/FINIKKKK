@@ -1,4 +1,4 @@
-<img src="./banner2.png">
+<img src="./banner.png">
 
 ## **I'm a Front-end Developer**
 
