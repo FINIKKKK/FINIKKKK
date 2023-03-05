@@ -2,7 +2,7 @@
 
 ## **I'm a Front-end Developer**
 
-As a developer, I am involved in creating websites and web applications that users can see and interact with. I constantly study new technologies and trends in web development to stay up-to-date and provide the best experience for users. Thanks to this, I get immense satisfaction from my work and take pride in being able to create quality products for my clients and users.
+As a developer, I am involved in creating websites and web applications that users can see and interact with. I have **more than 2 years of experience** in Front-end development, where I honed my skills in various technologies. I constantly study new technologies and trends in web development to stay up-to-date and provide the best experience for users. Thanks to this, I get immense satisfaction from my work and take pride in being able to create quality products for my clients and users. 
 
 #
 
@@ -11,6 +11,8 @@ As a developer, I am involved in creating websites and web applications that use
 #
 
 🔷 Main stack: NextJS, NestJS
+
+🔷 I have **more than 2 years** of experience
 
 🔷 I always prefer to use TypeScript and SCSS in my projects
 
