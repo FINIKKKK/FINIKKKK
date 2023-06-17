@@ -1,20 +1,22 @@
 <img src="./banner.png">
 
-## **I'm a Front-end Developer**
+## **I'm a Frontend Developer**
 
-As a developer, I am involved in creating websites and web applications that users can see and interact with. I have **more than 2 years of experience** in Front-end development, where I honed my skills in various technologies. I constantly study new technologies and trends in web development to stay up-to-date and provide the best experience for users. Thanks to this, I get immense satisfaction from my work and take pride in being able to create quality products for my clients and users. 
-
-#
-
-**`HTML/CSS`** **`JavaScript`** **`SCSS/SASS`** **`Gulp`** **`React`** **`Redux`** **`Redux Toolkit`** **`TypeScript`** **`Next.js`** **`Node.js`** **`Nest.js`** **`TypeORM`** **`PostgreSQL`** **`Vue.js`** **`Jest`** **`Docker`** **`EsLint`** **`Prettier`**
+As a developer, I am involved in creating websites and web applications that users can see and interact with. I have **more than 2 years of experience** in development, where I honed my skills in various technologies. I constantly study new technologies and trends in web development to stay up-to-date and provide the best experience for users. Thanks to this, I get immense satisfaction from my work and take pride in being able to create quality products for my clients and users. 
 
 #
 
-🔷 Main stack: NextJS, NestJS
+**`HTML/CSS`** **`JavaScript/TypeScript`** **`SCSS/SASS`** **`Gulp`** **`React/Next.js`** **`Vue.js/Nuxt.js/Composition API`** **`Redux/Redux Toolkit`** **`Pinia`** **`Node.js/Nest.js`** **`PostgreSQL`** **`Laravel`** **`EsLint/Prettier`** 
+
+#
+
+🔷 Main stack: NextJS/NestJS, NuxtJS/Laravel
 
 🔷 I have **more than 2 years** of experience
 
 🔷 I always prefer to use TypeScript and SCSS in my projects
+
+🔷 When developing on NuxtJS, I always prefer to use the Composition API style
 
 🔷 I like to write clean and easy-to-read code. This is my passion and one of the most important aspects of my approach
 
